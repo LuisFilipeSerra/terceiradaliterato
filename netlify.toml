@@ -1,0 +1,32 @@
+functionsDirectory = "C:\\Users\\alegf\\AppData\\Local\\Claude-Data\\claude_pzs8sxrjxfjjc\\scratch-workspaces\\9b4b0a57-a12f-4aee-8c4e-3ff194e04de1\\bc45c9ec-63c2-4172-b15a-3eb4b0b4bac6\\scratch-2026-10-12-93d5d9\\netlify\\functions"
+functionsDirectoryOrigin = "config-v1"
+plugins = []
+headers = []
+redirects = []
+
+[build]
+publish = "C:\\Users\\alegf\\AppData\\Local\\Claude-Data\\claude_pzs8sxrjxfjjc\\scratch-workspaces\\9b4b0a57-a12f-4aee-8c4e-3ff194e04de1\\bc45c9ec-63c2-4172-b15a-3eb4b0b4bac6\\scratch-2026-10-12-93d5d9\\site"
+publishOrigin = "config"
+functions = "C:\\Users\\alegf\\AppData\\Local\\Claude-Data\\claude_pzs8sxrjxfjjc\\scratch-workspaces\\9b4b0a57-a12f-4aee-8c4e-3ff194e04de1\\bc45c9ec-63c2-4172-b15a-3eb4b0b4bac6\\scratch-2026-10-12-93d5d9\\netlify\\functions"
+
+  [build.environment]
+
+  [build.processing]
+
+    [build.processing.css]
+
+    [build.processing.html]
+
+    [build.processing.images]
+
+    [build.processing.js]
+
+  [build.services]
+
+[dev]
+framework = "#static"
+publish = "site"
+
+[functions]
+
+  [functions."*"]
